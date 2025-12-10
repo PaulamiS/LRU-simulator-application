@@ -18,7 +18,7 @@ This README is tailored for **running the project inside Visual Studio Code**.
 
 ---
 
-# 🖥️ How to Run This Project in VS Code
+#  How to Run This Project in VS Code
 
 ##  1. Install Visual Studio Code
 Download from:  
@@ -62,12 +62,12 @@ lru-visual-learning-hub/
 - Page Hit shows glowing green highlight  
 - Page Fault shows red animation and popup  
 
-## 🎛 Playback Controls
+##  Playback Controls
 -  **Play Simulation**  
 - **Pause**  
 -  **Step Forward**  
 -  **Step Backward**  
-- ⏱ **Adjust Speed** slider  
+-  **Adjust Speed** slider  
 
 ##  Automatic Statistics Table
 Displays:
@@ -119,7 +119,7 @@ Use Play/Pause or Step buttons to move through the simulation.
 
 ---
 
-# 🛠 Technologies Used
+#  Technologies Used
 
 - **HTML5 Canvas**
 - **CSS3 + Gradient Background**
@@ -130,12 +130,14 @@ Use Play/Pause or Step buttons to move through the simulation.
 ---
 
 
-<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/93923158-e25b-4f48-a305-7c107015e365" />
+<img width="928" height="434" alt="image" src="https://github.com/user-attachments/assets/cd34fde7-ada6-4367-964f-6e6c911fe03f" />
+
 
 
 
 #  Credits
 Created for Operating Systems Lab learning and visual demonstration.
+
 
 
 
