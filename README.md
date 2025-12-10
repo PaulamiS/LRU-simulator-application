@@ -132,11 +132,18 @@ Use Play/Pause or Step buttons to move through the simulation.
 
 <img width="928" height="434" alt="image" src="https://github.com/user-attachments/assets/cd34fde7-ada6-4367-964f-6e6c911fe03f" />
 
+**screenshot during the time of execution**
+
+<img width="857" height="402" alt="image" src="https://github.com/user-attachments/assets/429b632c-cb66-44d5-862d-5ca89b5d669b" />
+
+
+
 
 
 
 #  Credits
 Created for Operating Systems Lab learning and visual demonstration.
+
 
 
 
